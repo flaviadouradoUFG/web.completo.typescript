@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",   /*Caminho para salvar os arquivos js em uma pasta específica*/
+    "noEmitOnError": false  /*Quando colocado como true, ele gera erro em var que estão com tipos diferentes. Sem
+     ele gera um warning somente*/
+  }
+}
